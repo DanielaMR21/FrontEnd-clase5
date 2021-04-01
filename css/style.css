@@ -1,0 +1,40 @@
+body{
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+main{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+h1, h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    background-color:#BFBFBF;
+}
+ul{
+    text-transform: uppercase;
+}
+h2{
+    color:#632423;
+}
+header{
+    text-align: center;
+    background-color: #ddd;
+    color: #1F497D;
+}
+footer{
+    background-color: #1F497D;
+    text-align: center;
+    color: #ddd;
+    font-size: 24px;
+}
+.img-redes{
+    height: 20px;
+    width: 20px;
+}
+.datos{
+    font-weight: bold;
+    font-style: italic;
+}
